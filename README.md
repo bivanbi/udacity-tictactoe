@@ -20,8 +20,9 @@ and probably other concepts as well.
   * IntelliJ
   * Java Development Kit - to build and run your
 * Project Code
-  * Completed project code from Udacity
-  * or download code from here
+  * Completed project code from Udacity or
+  * [download starter code from Udacity's Repository as zip file](https://github.com/udacity/ud282/archive/refs/heads/master.zip) and
+	then follow instructions in [exercises](exercises/index.md).
 
 ## Installing
 ### Windows and MacOS
@@ -36,11 +37,11 @@ sudo apt-get install git gradle openjdk-8-jdk
 ```
 
 ## Exercises
-See [Exercises](exercises).
+See [Exercises](exercises/index.md).
 
-## Licensing
-Udacity has not disclosed a license along with the course material.
-My best guess that since the repository is public, the course is free, you are free to use
-and modify it as long as you attribute the original authors.
+## License
 
-Any _new_ code, documentation and assets disclosed here are licensed under [GNU/GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+This collection of excercises and supporting information is licensed under [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.html).
+
+Udacity's training material is subject to Udacity's own license terms and conditions.
+
