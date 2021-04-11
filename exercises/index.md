@@ -20,3 +20,4 @@ If you get stuck, you can always [check out example solutions](https://github.co
 * [02.02 Rearrange Code](02-code-cleanup/02-rearrange-code.md)
 * [02.03 Code Cleanup](02-code-cleanup/03-code-cleanup.md)
 * [02.04 Inspect Code](02-code-cleanup/04-inspect-code.md)
+* [02.05 Inspect Code](02-code-cleanup/05-deal-with-possible-nullpointer-exception.md)
