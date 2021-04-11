@@ -85,7 +85,7 @@ In the end, you should choose the appropriate statement that improves code reada
 This one is a little bit more interesting, as the ```return``` statement is within an ```if-then``` block.
 If you remove the ```return``` statement, then the ```if``` block itelf becomes obsolete too.
 
-![Solution to Unnecessary If Statement](../../resources/02/unnecessari-if-and-return-statement.png "Solution to Unnecessary If Statement")
+![Solution to Unnecessary If Statement](../../resources/02/unnecessary-if-and-return-statement.png "Solution to Unnecessary If Statement")
 
 *One might ask: why would anyone put such a clearly unnecessary statement at the end of the method? The probable answer is: it is
 the result of a refactor. If this method was originally a loop within an other method, and was later refactored into a method of
