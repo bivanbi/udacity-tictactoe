@@ -49,7 +49,7 @@ On the left side of the editor window, next to the line numbers, there is indica
 
 Click on either one of them brings up a menu to show what has been changed. In this menu, change can also be rolled back.
 
-![View Change in Editor Window](../../resources/02/intellij-editor-vcs-view-change.png "View Change in Editor Window")
+![View Change in Editor Window](../../resources/02/intellij-editor-view-change.png "View Change in Editor Window")
 
 
 ### View Changes before Committing
